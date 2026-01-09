@@ -5,9 +5,9 @@ import java.util.Scanner;
 public class java{
     public static void main(String[] args){
 
-        /*
-        Scanner scanner = new Scanner(System.in);
 
+        Scanner scanner = new Scanner(System.in);
+ /*
          System.out.print("Enter your name: ");
         String name =   scanner.nextLine();
 
@@ -33,7 +33,7 @@ public class java{
         else {
             System.out.println("You are not enrolled as a student");
         }
-         */
+
 
         double width = 0;
         double height = 0;
@@ -49,8 +49,11 @@ public class java{
 
         area = width * height;
         System.out.print("The area of the Triangle is: " + area + "cm");
+ */
 
 
+
+        // GAME JAVA
 
         scanner.close();
     }
