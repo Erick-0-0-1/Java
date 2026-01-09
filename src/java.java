@@ -7,6 +7,9 @@ public class java{
 
 
         Scanner scanner = new Scanner(System.in);
+
+//STARTING MY JAVA PROGRAMMING
+
  /*
          System.out.print("Enter your name: ");
         String name =   scanner.nextLine();
@@ -55,7 +58,26 @@ public class java{
 
         // GAME JAVA
 
+String noun1;
+String verb1;
+String noun2;
+String verb2;
+String adjective1;
 
+
+        System.out.print("Please enter a noun (Animal or Person): ");
+        noun1 = scanner.nextLine();
+        System.out.print("Please enter a verb (Action): ");
+        verb1 = scanner.nextLine();
+        System.out.print("Please enter a noun (Animal or Person): ");
+        noun2 = scanner.nextLine();
+        System.out.print("Please enter a verb (Action): ");
+        verb2 = scanner.nextLine();
+        System.out.print("Please enter a adjective (Description): ");
+        adjective1 = scanner.nextLine();
+
+        System.out.print("I saw " +  noun1 + ".");
+        System.out.print();
 
 
 
