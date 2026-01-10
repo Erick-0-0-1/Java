@@ -1,10 +1,8 @@
 import java.util.Scanner;
 
 
-
 public class java{
     public static void main(String[] args){
-
 
         Scanner scanner = new Scanner(System.in);
 
@@ -75,12 +73,13 @@ String adjective1;
         verb2 = scanner.nextLine();
         System.out.print("Please enter a adjective (Description): ");
         adjective1 = scanner.nextLine();
+        System.out.println(" ");
 
-        System.out.print("I saw " +  noun1 + ".");
-        System.out.print();
-
-
-
+        System.out.println("I saw " +  noun1 + ".");
+        System.out.println("I " + verb1 + " Him in the face!");
+        System.out.println("Then I called " + noun2 + " He just laughed at me.");
+        System.out.println("I " + verb2 + " and run away.");
+        System.out.println("The place was " + adjective1 + " bruhh!.");
 
         scanner.close();
     }
