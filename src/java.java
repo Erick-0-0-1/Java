@@ -49,6 +49,7 @@ public class java{
 
         area = width * height;
         System.out.print("The area of the Triangle is: " + area + "cm");
+        System.out.println(" ");
 
 
 
