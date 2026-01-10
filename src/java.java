@@ -9,7 +9,7 @@ public class java{
 //STARTING MY JAVA PROGRAMMING
 
  /*
-         System.out.print("Enter your name: ");
+        System.out.print("Enter your name: ");
         String name =   scanner.nextLine();
 
         System.out.print("Enter your age: ");
@@ -55,7 +55,7 @@ public class java{
 
 
         // GAME JAVA
-
+/*
 String noun1;
 String verb1;
 String noun2;
@@ -80,6 +80,16 @@ String adjective1;
         System.out.println("Then I called " + noun2 + " He just laughed at me.");
         System.out.println("I " + verb2 + " and run away.");
         System.out.println("The place was " + adjective1 + " bruhh!.");
+*/
+
+
+            int x = 10;
+            int y = 5;
+            int a;
+
+            a = x + y;
+
+            System.out.println(a);
 
         scanner.close();
     }
