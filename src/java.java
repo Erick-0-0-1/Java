@@ -55,7 +55,7 @@ public class java{
 
 
         // GAME JAVA
-/*
+
 String noun1;
 String verb1;
 String noun2;
@@ -80,7 +80,6 @@ String adjective1;
         System.out.println("Then I called " + noun2 + " He just laughed at me.");
         System.out.println("I " + verb2 + " and run away.");
         System.out.println("The place was " + adjective1 + " bruhh!.");
-*/
 
 
             int x = 10;
