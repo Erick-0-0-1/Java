@@ -2,6 +2,12 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 public class Shopping {
+
+
+    private static String Burger;
+    private static String Pizza;
+    private static String Icecream;
+
     public static void main(String []args){
 
         Scanner scanner = new Scanner(System.in);
@@ -16,8 +22,7 @@ public class Shopping {
 
 
         System.out.println(food);
-
-
+        
 
         System.out.println("Hi");
 
