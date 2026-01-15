@@ -7,7 +7,7 @@ public class IF_Statement {
         Scanner scanner = new Scanner(System.in);
 
 
-        int age = 26;
+        int age;
 
 
         System.out.print("please enter your age: ");
